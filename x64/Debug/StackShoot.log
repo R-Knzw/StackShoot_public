@@ -1,0 +1,40 @@
+﻿  Block.cpp
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Block.cpp(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\block.h(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Bullet.cpp
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Bullet.cpp(73,14): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Enemy.cpp
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Bullet.cpp(73,14): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  EnemyMoveInterface.cpp
+  EnemyShootInterface.cpp
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Bullet.cpp(73,14): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Player.cpp
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Bullet.cpp(73,14): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Player.cpp(99,32): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Player.cpp(100,32): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  StackShoot.cpp
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\stackshoot.h(1,1): warning C4828: オフセット 0x105 から始まる、現在のソースの文字セット (コードページ 932) では使用できない文字がファイルに含まれています。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\block.cpp(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\block.h(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Bullet.cpp(73,14): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Player.cpp(99,32): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Player.cpp(100,32): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Stage.cpp(414,1): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Stage.cpp(529,1): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Stage.cpp
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Block.cpp(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\block.h(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Bullet.cpp(73,14): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Player.cpp(99,32): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Player.cpp(100,32): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Stage.cpp(414,1): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+\\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\Stage.cpp(529,1): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  コードを生成中...
+  StackShoot.vcxproj -> \\GPU-A\gpu\share\kanazawa\就活関連\StackShoot\StackShoot\x64\Debug\StackShoot.exe
